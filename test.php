@@ -5,4 +5,6 @@ echo "Hello World";
 echo "<br/>";
 //say good bye
 echo "Good Bye!!";
+echo "<br/>";
+echo "New Day Start";
 ?>
